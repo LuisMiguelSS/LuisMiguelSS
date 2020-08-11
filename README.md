@@ -4,7 +4,6 @@
 
 [![GitHub LuisMiguelSS](https://img.shields.io/github/followers/LuisMiguelSS?label=follow&style=social)](https://github.com/LuisMiguelSS)
 [![Twitter: LuisMiguelSSG](https://img.shields.io/twitter/follow/LuisMiguelSSG?style=social)](https://twitter.com/LuisMiguelSS)
-[![Reddit: SimplySapper](https://img.shields.io/reddit/user-karma/combined/SapperTR?style=social)](https://reddit.com/u/SapperTR)
 [![Linkedin: luismiguelss](https://img.shields.io/badge/-luismiguelss-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luismiguelss/)](https://www.linkedin.com/in/luismiguelss/)
 
 ### What do I work with?
