@@ -23,6 +23,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-%23B688EA?style=flat-square&logo=visual-studio)
 ![NPM](https://img.shields.io/badge/-npm-%2300C7B7?style=flat-square&logo=npm&logoColor=ffffff&labelColor=CB3837&color=CB3837)
 ![XCode](https://img.shields.io/badge/-Xcode-%2300C7B7?style=flat-square&logo=xcode&logoColor=ffffff&labelColor=1575F9&color=1575F9)
 ![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-%2300C7B7?style=flat-square&logo=android-studio&logoColor=ffffff&labelColor=3DDC84&color=3DDC84)
