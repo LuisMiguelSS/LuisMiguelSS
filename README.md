@@ -1,6 +1,6 @@
 [![Hello, I'm Luis Miguel!](https://github.com/LuisMiguelSS/LuisMiguelSS/blob/master/header.png?raw=true)](https://luismiguelsoto.com)
 
-## I'm a software developer currently based in Madrid, Spain :round_pushpin:
+## I'm a software developer currently based in Jerez, Spain :round_pushpin:
 
 [![GitHub LuisMiguelSS](https://img.shields.io/github/followers/LuisMiguelSS?label=follow&style=social)](https://github.com/LuisMiguelSS)
 [![Twitter: LuisMiguelSSG](https://img.shields.io/twitter/follow/LuisMiguelSSG?style=social)](https://twitter.com/LuisMiguelSS)
