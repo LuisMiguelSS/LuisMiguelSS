@@ -6,6 +6,9 @@
 [![Twitter: LuisMiguelSSG](https://img.shields.io/twitter/follow/LuisMiguelSSG?style=social)](https://twitter.com/LuisMiguelSS)
 [![Linkedin: luismiguelss](https://img.shields.io/badge/-luismiguelss-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luismiguelss/)](https://www.linkedin.com/in/luismiguelss/)
 
+### View my stats! :chart_with_upwards_trend:
+![LuisMiguelSS's Github Stats](https://github-readme-stats.vercel.app/api?username=luismiguelss&show_icons=true&theme=dracula)
+
 ### What do I work with?
 #### Native
 ![C#](https://img.shields.io/badge/-CSharp-%23282C34?style=flat-square&logo=c-sharp&labelColor=239120&color=239120)
@@ -36,6 +39,3 @@
 ![NPM](https://img.shields.io/badge/-npm-%2300C7B7?style=flat-square&logo=npm&logoColor=ffffff&labelColor=CB3837&color=CB3837)
 ![XCode](https://img.shields.io/badge/-Xcode-%2300C7B7?style=flat-square&logo=xcode&logoColor=ffffff&labelColor=1575F9&color=1575F9)
 ![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-%2300C7B7?style=flat-square&logo=android-studio&logoColor=ffffff&labelColor=3DDC84&color=3DDC84)
-
-### View my stats! :chart_with_upwards_trend:
-![LuisMiguelSS's Github Stats](https://github-readme-stats.vercel.app/api?username=luismiguelss&show_icons=true&theme=dracula)
