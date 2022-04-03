@@ -31,6 +31,7 @@
 
 #### Other
 ![Python](https://img.shields.io/badge/-Python-%23282C34?style=flat-square&logo=python&logoColor=ffffff&labelColor=3a77a9&color=3a77a9)
+![Flutter](https://img.shields.io/badge/-Flutter-%2302569B?style=flat-square&logo=flutter&logoColor=ffffff&labelColor=5ac7f6&color=5ac7f6)
 
 #### Tools
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
