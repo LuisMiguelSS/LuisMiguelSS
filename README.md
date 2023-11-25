@@ -1,6 +1,6 @@
 [![Hello, I'm Luis Miguel!](https://github.com/LuisMiguelSS/LuisMiguelSS/blob/master/header.png?raw=true)](https://luismiguelsoto.com)
 
-## I'm a software developer currently based in Jerez, Spain :round_pushpin:
+## Software developer currently based in Jerez, Spain :round_pushpin:
 
 [![GitHub LuisMiguelSS](https://img.shields.io/github/followers/LuisMiguelSS?label=follow&style=social)](https://github.com/LuisMiguelSS)
 [![Twitter: LuisMiguelSSG](https://img.shields.io/twitter/follow/LuisMiguelSSG?style=social)](https://twitter.com/LuisMiguelSS)
@@ -14,9 +14,11 @@
 ![C#](https://img.shields.io/badge/-CSharp-%23282C34?style=flat-square&logo=c-sharp&labelColor=239120&color=239120)
 
 #### Mobile
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-%23282C34?style=flat-square&logo=openjdk&labelColor=007396&color=007396)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-%23282C34?style=flat-square&logo=swift&logoColor=ffffff&labelColor=f8734a&color=f8734a)
-![Java](https://img.shields.io/badge/-Java-%23282C34?style=flat-square&logo=java&labelColor=007396&color=007396)
-![Kotlin]( 	https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-%233A95E3.svg?style=flat-square&logo=apple&logoColor=white)
 
 #### Web
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
