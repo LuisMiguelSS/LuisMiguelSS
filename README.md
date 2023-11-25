@@ -15,7 +15,7 @@
 
 #### Mobile
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-%23282C34?style=flat-square&logo=openjdk&labelColor=007396&color=007396)
+![Java](https://img.shields.io/badge/-Java-%23282C34?style=flat-square&logo=openjdk&labelColor=007396&color=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-%23282C34?style=flat-square&logo=swift&logoColor=ffffff&labelColor=f8734a&color=f8734a)
 ![Objective-C](https://img.shields.io/badge/Objective--C-%233A95E3.svg?style=flat-square&logo=apple&logoColor=white)
